@@ -36,6 +36,6 @@ public class MainActivity extends AppCompatActivity {
         for(String weatherItem : fakeWeatherData){
             tvWeatherData.append(weatherItem + "\n\n\n");
         }
-        
+
     }
 }
